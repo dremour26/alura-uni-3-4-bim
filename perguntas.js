@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'DARK SOULS',
+    'Qual a cor da armadura de Ornstain?',
+    'Cinza'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'ROCK',
+    'Quem Canta a Musica Paranoid?',
+    'Ozzy Osborn'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'GERAL',
+    'O Que define se uma estrela vira supernova, estrela de neutrons ou huraco negro?',
+    'Massa'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'MUSICA',
+    'Quem canta a musica Baby One More Time',
+    'Britney Spears'
 )
