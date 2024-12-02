@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Dark Souls',
+    'Qual a cor da armadura de Ornastain em DS 1',
+    'Cinza'
 )
 
 criaCartao(
